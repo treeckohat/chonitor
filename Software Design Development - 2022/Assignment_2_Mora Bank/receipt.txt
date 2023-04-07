@@ -1,0 +1,7 @@
+	MORA BANK
+Date:	23/06/2022
+Time:	10:00:10
+User:	monkey
+Transaction:	deposit
+Amount:	$10000
+Available Balance:	$123952.0
